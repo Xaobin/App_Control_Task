@@ -92,7 +92,7 @@
 #### Flow to undertand Reset Password
 ![Flow of Laravel Framework!](https://images2.imgbox.com/a9/2f/tvJhEquf_o.png "Flow - Laravel Framework")
 
-#### php artisan routes:list
+#### PHP artisan route:list
 ![Flow of Laravel Framework!](https://images2.imgbox.com/ee/cb/r4owaiZE_o.png "Flow - Laravel Framework")
 ![Flow of Laravel Framework!](https://images2.imgbox.com/07/0c/g83gUq3G_o.png "Flow - Laravel Framework")
 
